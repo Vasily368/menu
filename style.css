@@ -131,7 +131,7 @@ h1,h2,h3,h4,h5 {
   top: 50%;
   transform: translateY(-50%);
   position: absolute;
-  background-image: url(./plus.svg);
+  background-image: url(./images/plus.svg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -149,7 +149,7 @@ h1,h2,h3,h4,h5 {
   top: 50%;
   transform: translateY(-50%);
   position: absolute;
-  background-image: url(./minus.svg);
+  background-image: url(./images/minus.svg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -165,7 +165,7 @@ h1,h2,h3,h4,h5 {
   top: 50%;
   transform: translateY(-50%);
   position: absolute;
-  background-image: url(./plus.svg);
+  background-image: url(./images/plus.svg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
